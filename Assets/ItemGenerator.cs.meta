@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db930da94a4d4c0418d80b1d281514ff
+timeCreated: 1474292802
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - carPrefab: {instanceID: 0}
+  - coinPrefab: {instanceID: 0}
+  - conePrefab: {instanceID: 0}
+  - unitychan: {fileID: 100326, guid: 8f0565f23a2b58541a475bd3c1393052, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
